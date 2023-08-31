@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    className="card-img-top"
+    src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    />
+    <p
+      className="card-text"
+    >
+      Some quick example text to build on the card title and make up the bulk of the card's content.
+    </p>
+    <button
+      className="btn btn-primary"
+      disabled={false}
+      type="button"
+    >
+      Go somewhere
+    </button>
+  </div>
+</div>
+`;
